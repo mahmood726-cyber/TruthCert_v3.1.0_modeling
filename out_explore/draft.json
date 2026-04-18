@@ -1,0 +1,25 @@
+{
+  "content": {
+    "numbers": [
+      10.0,
+      20.0,
+      30.0
+    ],
+    "stable": true,
+    "text": "This is a simple source text with numbers 10, 20, 30.\n"
+  },
+  "efficiency": {
+    "budget_enforcement": "warn",
+    "tokens_used": 13,
+    "under_budget": true
+  },
+  "parse_status": "stable",
+  "risk_flags": {
+    "external_mismatch": false,
+    "failed_tests": [],
+    "missing_provenance": true,
+    "mixing_suspicion": false,
+    "uncertainty_unknown": true
+  },
+  "type": "CANDIDATE_FACT"
+}

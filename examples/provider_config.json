@@ -1,0 +1,7 @@
+{
+  "url": "https://api.example.com/v1/extract",
+  "headers": {"Authorization": "Bearer ${ENV:ANTHROPIC_API_KEY}"},
+  "request_template": {"model": "model-name"},
+  "prompt_field": "prompt",
+  "response_path": "data.payload"
+}

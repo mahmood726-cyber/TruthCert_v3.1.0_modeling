@@ -1,0 +1,7 @@
+{
+  "url": "REPLACE_WITH_ZAI_ENDPOINT",
+  "headers": {"Authorization": "Bearer ${ENV:ZAI_API_KEY}"},
+  "request_template": {"model": "REPLACE_WITH_MODEL"},
+  "prompt_field": "prompt",
+  "response_path": "REPLACE_WITH_RESPONSE_PATH"
+}

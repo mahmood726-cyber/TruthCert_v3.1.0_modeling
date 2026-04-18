@@ -1,0 +1,1000 @@
+{"scenario_id": "scn-0001", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0002", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["sign_flip:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0003", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0004", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["value_swap:0", "decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0005", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0006", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["decimal_shift:2", "decimal_shift:3", "value_swap:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0007", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0008", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["value_swap:1", "sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0009", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0010", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 162, "corruptions": ["value_swap:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0011", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 120, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0012", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0013", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0014", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0015", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0016", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 171, "corruptions": ["sign_flip:0", "sign_flip:2", "sign_flip:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0017", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0018", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0019", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0020", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0021", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0022", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 159, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0023", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 186, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0024", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 132, "corruptions": ["value_swap:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0025", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0026", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0027", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["decimal_shift:5", "decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0028", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["decimal_shift:2", "sign_flip:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0029", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 171, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0030", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0031", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 171, "corruptions": ["decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0032", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 81, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0033", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0034", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": ["decimal_shift:5", "decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0035", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0036", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0037", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0038", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["value_swap:0", "sign_flip:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0039", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 78, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0040", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0041", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0042", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0043", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0044", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0045", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0046", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0047", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 147, "corruptions": ["sign_flip:1", "value_swap:2", "sign_flip:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0048", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 120, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0049", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0050", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0051", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0052", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0053", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 180, "corruptions": ["sign_flip:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0054", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["decimal_shift:4", "decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0055", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["value_swap:2", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0056", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["decimal_shift:2", "sign_flip:4", "value_swap:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0057", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0058", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["sign_flip:3", "value_swap:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0059", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0060", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0061", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0062", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0063", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 96, "corruptions": ["value_swap:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0064", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 195, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0065", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["value_swap:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0066", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0067", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 141, "corruptions": ["decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0068", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0069", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0070", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0071", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0072", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:3", "value_swap:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0073", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0074", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 162, "corruptions": ["sign_flip:3", "sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0075", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0076", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0077", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 147, "corruptions": ["decimal_shift:1", "decimal_shift:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0078", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0079", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0080", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0081", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0082", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 93, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0083", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["decimal_shift:5", "sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0084", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 150, "corruptions": ["decimal_shift:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0085", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 171, "corruptions": ["decimal_shift:0", "value_swap:1", "decimal_shift:3", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0086", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0087", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": ["value_swap:3", "decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0088", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0089", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 129, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0090", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 183, "corruptions": ["sign_flip:4", "sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0091", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 189, "corruptions": ["decimal_shift:1", "sign_flip:3", "value_swap:4", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0092", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["sign_flip:1", "sign_flip:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0093", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0094", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0095", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0096", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0097", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0098", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 210, "corruptions": ["decimal_shift:7", "sign_flip:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0099", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["sign_flip:2", "sign_flip:4", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0100", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["sign_flip:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0101", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0102", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 102, "corruptions": ["value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0103", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0104", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0105", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0106", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0107", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0108", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 120, "corruptions": ["value_swap:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0109", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0110", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0111", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 93, "corruptions": ["value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0112", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0113", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0114", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0115", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0116", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0117", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0118", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0119", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 108, "corruptions": ["sign_flip:3", "sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0120", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0121", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0122", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 141, "corruptions": ["decimal_shift:0", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0123", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 204, "corruptions": ["decimal_shift:2", "decimal_shift:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0124", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0125", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0126", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0127", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0128", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0129", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0130", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0131", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0132", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0133", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0134", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["decimal_shift:0", "decimal_shift:3", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0135", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 132, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0136", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0137", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 165, "corruptions": ["sign_flip:0", "decimal_shift:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0138", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0139", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0140", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0141", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 150, "corruptions": ["sign_flip:3", "sign_flip:6", "value_swap:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0142", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0143", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": ["value_swap:3", "value_swap:5", "value_swap:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0144", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0145", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0146", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0147", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 198, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0148", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 174, "corruptions": ["sign_flip:0", "decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0149", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0150", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0151", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["sign_flip:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0152", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["value_swap:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0153", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0154", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 150, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0155", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 102, "corruptions": ["sign_flip:2", "value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0156", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 159, "corruptions": ["sign_flip:2", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0157", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0158", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0159", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0160", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["value_swap:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0161", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0162", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0163", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0164", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0165", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0166", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 192, "corruptions": ["value_swap:6", "sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0167", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0168", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 162, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0169", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0170", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["value_swap:1", "sign_flip:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0171", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["value_swap:4", "sign_flip:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0172", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["value_swap:7", "sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0173", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0174", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0175", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0176", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0177", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 105, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0178", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0179", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0180", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 108, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0181", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0182", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0183", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0184", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 159, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0185", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["value_swap:3", "sign_flip:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0186", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0187", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 186, "corruptions": ["sign_flip:1", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0188", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0189", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 159, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0190", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0191", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["sign_flip:5", "decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0192", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["value_swap:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0193", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 93, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0194", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": ["decimal_shift:4", "value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0195", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0196", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0197", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0198", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["sign_flip:5", "sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0199", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0200", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0201", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0202", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0203", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0204", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0205", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0206", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0207", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 81, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0208", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 90, "corruptions": ["value_swap:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0209", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0210", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 183, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0211", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 84, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0212", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0213", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 93, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0214", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 192, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0215", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0216", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0217", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0218", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 141, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0219", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0220", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 186, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0221", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0222", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 171, "corruptions": ["sign_flip:5", "value_swap:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0223", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0224", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0225", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["decimal_shift:1", "decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0226", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 159, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0227", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0228", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 183, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0229", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0230", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0231", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["sign_flip:1", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0232", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0233", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0234", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["value_swap:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0235", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["decimal_shift:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0236", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0237", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0238", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0239", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 147, "corruptions": ["sign_flip:0", "value_swap:1", "sign_flip:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0240", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 150, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0241", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 135, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0242", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 141, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0243", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0244", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 162, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0245", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 171, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0246", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["decimal_shift:0", "sign_flip:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0247", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0248", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0249", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0250", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 81, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0251", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0252", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0253", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["decimal_shift:1", "value_swap:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0254", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0255", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0256", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 150, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0257", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 120, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0258", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0259", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 183, "corruptions": ["decimal_shift:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0260", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0261", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0262", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0263", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 93, "corruptions": ["value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0264", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0265", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["decimal_shift:1", "value_swap:2", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0266", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0267", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 150, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0268", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0269", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 159, "corruptions": ["value_swap:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0270", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 99, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0271", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0272", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0273", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0274", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0275", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0276", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0277", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0278", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0279", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0280", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0281", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0282", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0283", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0284", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0285", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0286", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0287", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0288", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0289", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["value_swap:0", "sign_flip:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0290", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 132, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0291", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 183, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0292", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0293", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0294", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0295", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0296", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0297", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0298", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 165, "corruptions": ["value_swap:1", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0299", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 105, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0300", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["sign_flip:3", "value_swap:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0301", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0302", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 174, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0303", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 150, "corruptions": ["value_swap:0", "sign_flip:1", "sign_flip:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0304", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0305", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 192, "corruptions": ["sign_flip:2", "value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0306", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 147, "corruptions": ["value_swap:1", "sign_flip:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0307", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["value_swap:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0308", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0309", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 108, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0310", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["sign_flip:2", "decimal_shift:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0311", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0312", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0313", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 171, "corruptions": ["value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0314", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0315", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0316", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0317", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0318", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 198, "corruptions": ["sign_flip:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0319", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0320", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0321", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0322", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 150, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0323", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 150, "corruptions": ["decimal_shift:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0324", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0325", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0326", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 135, "corruptions": ["value_swap:0", "sign_flip:1", "sign_flip:2", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0327", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0328", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 141, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0329", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["sign_flip:6", "sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0330", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 135, "corruptions": ["value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0331", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0332", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0333", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0334", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0335", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 78, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0336", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0337", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["sign_flip:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0338", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0339", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0340", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0341", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0342", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0343", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 201, "corruptions": ["value_swap:4", "sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0344", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0345", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 159, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0346", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0347", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0348", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0349", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 195, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0350", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["value_swap:2", "sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0351", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0352", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0353", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0354", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0355", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0356", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0357", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["decimal_shift:1", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0358", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["value_swap:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0359", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0360", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0361", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 78, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0362", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0363", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 165, "corruptions": ["decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0364", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 183, "corruptions": ["sign_flip:5", "decimal_shift:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0365", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 153, "corruptions": ["value_swap:2", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0366", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["decimal_shift:1", "sign_flip:8", "sign_flip:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0367", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0368", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 186, "corruptions": ["value_swap:3", "decimal_shift:10", "sign_flip:11"], "missed_adversarial": true}
+{"scenario_id": "scn-0369", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0370", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 180, "corruptions": ["sign_flip:2", "sign_flip:5", "value_swap:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0371", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 195, "corruptions": ["sign_flip:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0372", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0373", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0374", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0375", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0376", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0377", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0378", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 201, "corruptions": ["sign_flip:0", "sign_flip:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0379", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["sign_flip:0", "value_swap:4", "sign_flip:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0380", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0381", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["sign_flip:4", "sign_flip:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0382", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0383", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 123, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0384", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 165, "corruptions": ["value_swap:0", "decimal_shift:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0385", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0386", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0387", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0388", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0389", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0390", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0391", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0392", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0393", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0394", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 153, "corruptions": ["sign_flip:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0395", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0396", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0397", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0398", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["decimal_shift:1", "decimal_shift:2", "decimal_shift:3", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0399", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0400", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0401", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 138, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0402", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 147, "corruptions": ["decimal_shift:0", "value_swap:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0403", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0404", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0405", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0406", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0407", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["value_swap:0", "sign_flip:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0408", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0409", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 132, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0410", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 162, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0411", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 180, "corruptions": ["sign_flip:2", "decimal_shift:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0412", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0413", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0414", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:8", "sign_flip:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0415", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0416", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": ["value_swap:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0417", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 129, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0418", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0419", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0420", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["sign_flip:8", "sign_flip:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0421", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 150, "corruptions": ["value_swap:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0422", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0423", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0424", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0425", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0426", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 102, "corruptions": ["value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0427", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0428", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 183, "corruptions": ["decimal_shift:6", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0429", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0430", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 162, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0431", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 81, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0432", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 120, "corruptions": ["sign_flip:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0433", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 189, "corruptions": ["decimal_shift:3", "sign_flip:4", "value_swap:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0434", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0435", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0436", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0437", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["sign_flip:1", "sign_flip:4", "value_swap:8", "sign_flip:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0438", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0439", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 153, "corruptions": ["sign_flip:2", "value_swap:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0440", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0441", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0442", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0443", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": ["value_swap:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0444", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0445", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0446", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0447", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0448", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["sign_flip:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0449", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0450", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0451", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0452", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["value_swap:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0453", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0454", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 147, "corruptions": ["sign_flip:1", "value_swap:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0455", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["value_swap:3", "decimal_shift:4", "sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0456", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0457", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0458", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0459", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0460", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0461", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["sign_flip:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0462", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0463", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0464", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["decimal_shift:0", "value_swap:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0465", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0466", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0467", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 123, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0468", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0469", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0470", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0471", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0472", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0473", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0474", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0475", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0476", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 162, "corruptions": ["sign_flip:0", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0477", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0478", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0479", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0480", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0481", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0482", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0483", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 132, "corruptions": ["sign_flip:1", "decimal_shift:2", "value_swap:4", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0484", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0485", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0486", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 183, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0487", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0488", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0489", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 186, "corruptions": ["value_swap:11"], "missed_adversarial": true}
+{"scenario_id": "scn-0490", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0491", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["decimal_shift:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0492", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0493", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0494", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0495", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["decimal_shift:1", "value_swap:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0496", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["value_swap:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0497", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 132, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0498", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0499", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0500", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0501", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0502", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 150, "corruptions": ["sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0503", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": ["value_swap:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0504", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0505", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0506", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0507", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": ["value_swap:2", "value_swap:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0508", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["sign_flip:0", "value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0509", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0510", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0511", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["decimal_shift:3", "sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0512", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 105, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0513", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 162, "corruptions": ["decimal_shift:2", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0514", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0515", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0516", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0517", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0518", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 174, "corruptions": ["decimal_shift:5", "decimal_shift:11"], "missed_adversarial": false}
+{"scenario_id": "scn-0519", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0520", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 141, "corruptions": ["sign_flip:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0521", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0522", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["value_swap:5", "sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0523", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0524", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0525", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 180, "corruptions": ["decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0526", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0527", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0528", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0529", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0530", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0531", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0532", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 171, "corruptions": ["sign_flip:3", "decimal_shift:5", "sign_flip:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0533", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0534", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0535", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0536", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 198, "corruptions": ["decimal_shift:6", "decimal_shift:11"], "missed_adversarial": false}
+{"scenario_id": "scn-0537", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["value_swap:4", "decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0538", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 135, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0539", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0540", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["sign_flip:6", "value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0541", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0542", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0543", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 132, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0544", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["sign_flip:2", "decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0545", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 141, "corruptions": ["decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0546", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["decimal_shift:2", "decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0547", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 150, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0548", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0549", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": ["decimal_shift:2", "decimal_shift:4", "value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0550", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0551", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["decimal_shift:5", "sign_flip:7", "decimal_shift:8", "sign_flip:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0552", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0553", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0554", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 180, "corruptions": ["decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0555", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 81, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0556", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 192, "corruptions": ["decimal_shift:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0557", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["value_swap:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0558", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0559", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0560", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0561", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0562", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0563", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0564", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0565", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0566", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0567", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0568", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0569", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0570", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0571", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["sign_flip:0", "decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0572", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0573", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0574", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 150, "corruptions": ["value_swap:6", "value_swap:7", "decimal_shift:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0575", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0576", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0577", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0578", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0579", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 129, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0580", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0581", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0582", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0583", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["value_swap:0", "decimal_shift:2", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0584", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0585", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0586", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0587", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0588", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 120, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0589", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0590", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0591", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0592", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0593", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 186, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0594", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0595", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0596", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0597", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0598", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0599", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0600", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 102, "corruptions": ["sign_flip:0", "value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0601", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["decimal_shift:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0602", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 105, "corruptions": ["value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0603", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0604", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0605", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0606", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 129, "corruptions": ["value_swap:1", "sign_flip:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0607", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0608", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0609", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0610", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0611", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 195, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0612", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0613", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["decimal_shift:2", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0614", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0615", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 174, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0616", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["sign_flip:3", "sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0617", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 120, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0618", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["sign_flip:5", "decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0619", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0620", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 174, "corruptions": ["decimal_shift:6", "decimal_shift:8", "sign_flip:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0621", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 150, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0622", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0623", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0624", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0625", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0626", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0627", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 108, "corruptions": ["sign_flip:1", "value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0628", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0629", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 189, "corruptions": ["decimal_shift:0", "sign_flip:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0630", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0631", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0632", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0633", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0634", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0635", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0636", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0637", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["sign_flip:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0638", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0639", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["sign_flip:3", "decimal_shift:5", "value_swap:6", "sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0640", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0641", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 162, "corruptions": ["value_swap:7", "value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0642", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0643", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0644", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["value_swap:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0645", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["decimal_shift:2", "sign_flip:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0646", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 174, "corruptions": ["value_swap:0", "sign_flip:1", "sign_flip:3", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0647", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 159, "corruptions": ["sign_flip:0", "decimal_shift:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0648", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0649", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0650", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 192, "corruptions": ["decimal_shift:11"], "missed_adversarial": false}
+{"scenario_id": "scn-0651", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 189, "corruptions": ["sign_flip:4", "decimal_shift:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0652", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0653", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0654", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0655", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0656", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 84, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0657", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0658", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0659", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0660", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 129, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0661", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 171, "corruptions": ["value_swap:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0662", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 198, "corruptions": ["decimal_shift:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0663", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 135, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0664", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0665", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 159, "corruptions": ["value_swap:1", "decimal_shift:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0666", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0667", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0668", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["decimal_shift:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0669", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0670", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 81, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0671", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0672", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0673", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0674", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["decimal_shift:5", "decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0675", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0676", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0677", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 174, "corruptions": ["value_swap:3", "decimal_shift:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0678", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0679", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 135, "corruptions": ["value_swap:0", "decimal_shift:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0680", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0681", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["value_swap:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0682", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0683", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0684", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0685", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0686", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0687", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0688", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["value_swap:0", "decimal_shift:1", "sign_flip:2", "value_swap:4", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0689", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0690", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0691", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0692", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0693", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0694", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 150, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0695", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0696", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0697", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0698", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0699", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["sign_flip:4", "sign_flip:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0700", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0701", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0702", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0703", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0704", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0705", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["sign_flip:6", "decimal_shift:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0706", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["decimal_shift:0", "sign_flip:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0707", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0708", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0709", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0710", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0711", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0712", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 84, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0713", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0714", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0715", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 108, "corruptions": ["value_swap:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0716", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 210, "corruptions": ["sign_flip:7", "decimal_shift:9", "decimal_shift:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0717", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0718", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0719", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 132, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0720", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0721", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0722", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0723", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 84, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0724", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0725", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 120, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0726", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["sign_flip:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0727", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0728", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0729", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0730", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 192, "corruptions": ["sign_flip:0", "decimal_shift:2", "sign_flip:4", "sign_flip:8", "value_swap:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0731", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0732", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0733", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0734", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0735", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["value_swap:2", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0736", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0737", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0738", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0739", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0740", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0741", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0742", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0743", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["decimal_shift:3", "value_swap:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0744", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0745", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0746", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0747", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 132, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0748", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 174, "corruptions": ["value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0749", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0750", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": ["decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0751", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 153, "corruptions": ["value_swap:0", "sign_flip:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0752", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0753", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["decimal_shift:0", "sign_flip:1", "value_swap:5", "sign_flip:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0754", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0755", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0756", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0757", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0758", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0759", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0760", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0761", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0762", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0763", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["value_swap:2", "decimal_shift:4", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0764", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0765", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0766", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0767", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0768", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 174, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0769", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0770", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 162, "corruptions": ["sign_flip:0", "sign_flip:3", "sign_flip:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0771", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0772", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 105, "corruptions": ["sign_flip:0", "decimal_shift:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0773", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:1", "value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0774", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 150, "corruptions": ["sign_flip:1", "value_swap:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0775", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 153, "corruptions": ["value_swap:2", "value_swap:3", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0776", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0777", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0778", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0779", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0780", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0781", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 180, "corruptions": ["sign_flip:5", "decimal_shift:8", "sign_flip:11"], "missed_adversarial": false}
+{"scenario_id": "scn-0782", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0783", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["value_swap:0", "sign_flip:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0784", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0785", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0786", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 210, "corruptions": ["value_swap:1", "value_swap:5", "sign_flip:7", "decimal_shift:10", "sign_flip:11"], "missed_adversarial": true}
+{"scenario_id": "scn-0787", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["decimal_shift:2", "value_swap:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0788", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["decimal_shift:7", "decimal_shift:9", "decimal_shift:11"], "missed_adversarial": false}
+{"scenario_id": "scn-0789", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0790", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["decimal_shift:1", "value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0791", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 171, "corruptions": ["sign_flip:2", "value_swap:6", "value_swap:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0792", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0793", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0794", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0795", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["value_swap:5", "value_swap:6", "sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0796", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0797", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0798", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0799", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0800", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0801", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0802", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["decimal_shift:2", "sign_flip:4", "sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0803", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 105, "corruptions": ["decimal_shift:0", "sign_flip:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0804", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 174, "corruptions": ["sign_flip:3", "sign_flip:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0805", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0806", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 123, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0807", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 108, "corruptions": ["value_swap:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0808", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["value_swap:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0809", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0810", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 120, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0811", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["decimal_shift:2", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0812", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0813", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0814", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["decimal_shift:4", "value_swap:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0815", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 141, "corruptions": ["decimal_shift:5"], "missed_adversarial": false}
+{"scenario_id": "scn-0816", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0817", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 135, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0818", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 195, "corruptions": ["sign_flip:0", "value_swap:4", "decimal_shift:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0819", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0820", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0821", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["value_swap:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0822", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 165, "corruptions": ["sign_flip:0", "value_swap:4", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0823", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 207, "corruptions": ["value_swap:0", "value_swap:2", "value_swap:7", "decimal_shift:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0824", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0825", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0826", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 90, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0827", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0828", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 174, "corruptions": ["value_swap:3", "decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0829", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0830", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["sign_flip:1", "decimal_shift:5"], "missed_adversarial": true}
+{"scenario_id": "scn-0831", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0832", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 180, "corruptions": ["decimal_shift:1", "sign_flip:4", "sign_flip:7", "decimal_shift:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0833", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0834", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 165, "corruptions": ["value_swap:2", "value_swap:3"], "missed_adversarial": true}
+{"scenario_id": "scn-0835", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 198, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0836", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 153, "corruptions": ["value_swap:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0837", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0838", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0839", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0840", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["value_swap:2", "value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0841", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 150, "corruptions": ["decimal_shift:0", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0842", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0843", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0844", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["value_swap:3", "sign_flip:7", "value_swap:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0845", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0846", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["sign_flip:4", "decimal_shift:5", "sign_flip:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0847", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0848", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 108, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0849", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["sign_flip:1", "sign_flip:3", "decimal_shift:5", "value_swap:6", "decimal_shift:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0850", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 84, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0851", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 186, "corruptions": ["value_swap:2", "value_swap:7", "decimal_shift:11"], "missed_adversarial": true}
+{"scenario_id": "scn-0852", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 105, "corruptions": ["sign_flip:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0853", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 111, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0854", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 123, "corruptions": ["decimal_shift:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0855", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0856", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0857", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0858", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0859", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0860", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["decimal_shift:2", "sign_flip:6", "decimal_shift:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0861", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 162, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0862", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0863", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0864", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0865", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["decimal_shift:0", "sign_flip:1", "sign_flip:7", "sign_flip:10"], "missed_adversarial": true}
+{"scenario_id": "scn-0866", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0867", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 120, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0868", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 162, "corruptions": ["sign_flip:0", "sign_flip:1", "sign_flip:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0869", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 189, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0870", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0871", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0872", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 150, "corruptions": ["decimal_shift:3", "sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0873", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0874", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0875", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0876", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0877", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0878", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["value_swap:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0879", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0880", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0881", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0882", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 144, "corruptions": ["decimal_shift:2", "value_swap:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0883", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0884", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0885", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0886", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0887", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 198, "corruptions": ["decimal_shift:0", "sign_flip:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0888", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 90, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0889", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["sign_flip:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0890", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 144, "corruptions": ["value_swap:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0891", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["decimal_shift:5", "value_swap:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0892", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0893", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 183, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0894", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0895", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 177, "corruptions": ["value_swap:0", "decimal_shift:5", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0896", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 90, "corruptions": ["value_swap:1", "sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0897", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0898", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0899", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0900", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0901", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 114, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0902", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 126, "corruptions": ["value_swap:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0903", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0904", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 189, "corruptions": ["decimal_shift:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0905", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 105, "corruptions": ["decimal_shift:0", "decimal_shift:2", "sign_flip:3", "value_swap:4"], "missed_adversarial": true}
+{"scenario_id": "scn-0906", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0907", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 96, "corruptions": ["sign_flip:0", "decimal_shift:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0908", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["sign_flip:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0909", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 84, "corruptions": ["sign_flip:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0910", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 96, "corruptions": ["decimal_shift:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0911", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0912", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0913", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0914", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0915", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0916", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["sign_flip:0", "value_swap:5", "sign_flip:6"], "missed_adversarial": true}
+{"scenario_id": "scn-0917", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0918", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0919", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": ["value_swap:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0920", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0921", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0922", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0923", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 165, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0924", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 183, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0925", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0926", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 96, "corruptions": ["sign_flip:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0927", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 156, "corruptions": ["value_swap:6", "decimal_shift:7", "sign_flip:8", "value_swap:9"], "missed_adversarial": true}
+{"scenario_id": "scn-0928", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 186, "corruptions": ["decimal_shift:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0929", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 180, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0930", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0931", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["decimal_shift:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0932", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["sign_flip:0", "value_swap:3", "decimal_shift:4", "value_swap:8"], "missed_adversarial": true}
+{"scenario_id": "scn-0933", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 84, "corruptions": ["value_swap:0", "value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0934", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["value_swap:3", "decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0935", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 171, "corruptions": ["sign_flip:2", "decimal_shift:6", "sign_flip:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0936", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0937", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 102, "corruptions": ["sign_flip:2"], "missed_adversarial": false}
+{"scenario_id": "scn-0938", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 78, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0939", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0940", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 84, "corruptions": ["sign_flip:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0941", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 114, "corruptions": ["value_swap:1"], "missed_adversarial": true}
+{"scenario_id": "scn-0942", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0943", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0944", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0945", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 108, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0946", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 177, "corruptions": ["sign_flip:10"], "missed_adversarial": false}
+{"scenario_id": "scn-0947", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0948", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0949", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 123, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0950", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 93, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0951", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0952", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 162, "corruptions": ["decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0953", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 183, "corruptions": ["sign_flip:2"], "missed_adversarial": true}
+{"scenario_id": "scn-0954", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0955", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0956", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 189, "corruptions": ["decimal_shift:4", "decimal_shift:5", "value_swap:6", "sign_flip:8", "value_swap:10", "decimal_shift:11"], "missed_adversarial": false}
+{"scenario_id": "scn-0957", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 141, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0958", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 81, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0959", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 165, "corruptions": ["sign_flip:5", "decimal_shift:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0960", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 99, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0961", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 195, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0962", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 138, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0963", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0964", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0965", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["value_swap:5", "value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0966", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0967", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 183, "corruptions": ["sign_flip:6", "decimal_shift:9"], "missed_adversarial": false}
+{"scenario_id": "scn-0968", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 174, "corruptions": ["decimal_shift:1", "decimal_shift:2", "decimal_shift:4", "decimal_shift:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0969", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 138, "corruptions": ["sign_flip:4", "decimal_shift:6"], "missed_adversarial": false}
+{"scenario_id": "scn-0970", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 126, "corruptions": ["sign_flip:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0971", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["value_swap:8"], "missed_adversarial": false}
+{"scenario_id": "scn-0972", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0973", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 102, "corruptions": ["value_swap:0"], "missed_adversarial": true}
+{"scenario_id": "scn-0974", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 168, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0975", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 102, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0976", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 168, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0977", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 153, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0978", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0979", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0980", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 156, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0981", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0982", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0983", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["value_swap:7"], "missed_adversarial": false}
+{"scenario_id": "scn-0984", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 114, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0985", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0986", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0987", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 135, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0988", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 123, "corruptions": ["value_swap:1"], "missed_adversarial": false}
+{"scenario_id": "scn-0989", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": false, "tokens": 168, "corruptions": ["sign_flip:2", "sign_flip:5", "decimal_shift:7"], "missed_adversarial": true}
+{"scenario_id": "scn-0990", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:4"], "missed_adversarial": false}
+{"scenario_id": "scn-0991", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 96, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0992", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 132, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0993", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 198, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0994", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 144, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0995", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 126, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0996", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 105, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0997", "terminal_state": "REJECTED", "shipped": false, "bundle_correct": true, "tokens": 156, "corruptions": ["decimal_shift:3"], "missed_adversarial": false}
+{"scenario_id": "scn-0998", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 177, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-0999", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 84, "corruptions": [], "missed_adversarial": false}
+{"scenario_id": "scn-1000", "terminal_state": "SHIPPED", "shipped": true, "bundle_correct": true, "tokens": 147, "corruptions": [], "missed_adversarial": false}

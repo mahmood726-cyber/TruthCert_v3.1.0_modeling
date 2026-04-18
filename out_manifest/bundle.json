@@ -1,0 +1,78 @@
+{
+  "bundle_id": "bundle-1769183254",
+  "extracted_payload": {
+    "numbers": [
+      10.0,
+      20.0,
+      30.0
+    ],
+    "output_type": "FACT",
+    "total_numbers": 3
+  },
+  "gate_outcomes": [
+    {
+      "detail": "",
+      "gate_id": "B1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B1.5",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B2",
+      "passed": true
+    },
+    {
+      "detail": "bounds_missing:total_numbers",
+      "gate_id": "B3",
+      "passed": false
+    },
+    {
+      "detail": "",
+      "gate_id": "B4",
+      "passed": true
+    },
+    {
+      "detail": "agreement=1.00 required=0.80",
+      "gate_id": "B5",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B6",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B7",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B8",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B9",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B10",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "gate_id": "B11",
+      "passed": true
+    }
+  ],
+  "policy_anchor_ref": "scope-lock-1",
+  "scope_lock_ref": "scope-lock-1",
+  "terminal_state": "REJECTED",
+  "timestamp": 1769183254.5193515
+}

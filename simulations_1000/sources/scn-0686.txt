@@ -1,0 +1,2 @@
+Scenario scn-0686
+Numbers: 55.78, 77.31, 41.17

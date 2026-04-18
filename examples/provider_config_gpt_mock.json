@@ -1,0 +1,5 @@
+{
+  "model_families": ["OpenAI GPT"],
+  "models": ["gpt-4o", "gpt-4.1", "gpt-4.1-mini"],
+  "mock_noise": 0.0
+}

@@ -1,0 +1,6 @@
+{
+  "bounds": {
+    "numbers.*": {"min": 0, "max": 100},
+    "total_numbers": {"min": 0, "max": 200}
+  }
+}

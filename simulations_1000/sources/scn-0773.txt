@@ -1,0 +1,3 @@
+Scenario scn-0773
+Numbers: 90.32, 739.0, 93.73, 88.9
+PARSE_UNSTABLE

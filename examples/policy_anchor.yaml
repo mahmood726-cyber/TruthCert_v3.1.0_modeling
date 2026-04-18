@@ -1,0 +1,25 @@
+scope_lock_ref: scope-lock-1
+validator_version: validators-2026-01
+validator_set_hash: ""
+timestamp: 1769183188.4063458
+thresholds:
+  fact_agreement: 0.8
+  interpretation_agreement: 0.7
+  blindspot_r: 0.6
+  material_disagreement_pct: 0.05
+witness_config:
+  mode: fixed
+  min_witnesses: 3
+  max_witnesses: 3
+  heterogeneity: preferred
+  convergence_threshold: 0.92
+cost_budget:
+  enforcement: warn
+  max_tokens_per_bundle: 50000
+  max_cost_usd_per_bundle: 5.0
+  alert_threshold_pct: 0.8
+features:
+  external_refs_enabled: false
+  rag_enabled: false
+  gold_standard_enabled: false
+promotion_policy: balanced

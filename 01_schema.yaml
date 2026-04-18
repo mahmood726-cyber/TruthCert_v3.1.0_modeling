@@ -1,0 +1,95 @@
+version: 0.1
+frozen_thresholds: true
+
+ScopeLock:
+  endpoint: string
+  entities: list[string]
+  units: string
+  timepoint: string
+  inclusion_snippet: string
+  source_hash: string # sha256 of ordered source doc hashes
+
+PolicyAnchor:
+  scope_lock_ref: string
+  validator_version: string
+  validator_set_hash: string
+  timestamp: datetime
+  thresholds:
+    fact_agreement: float
+    interpretation_agreement: float
+    blindspot_r: float
+    material_disagreement_pct: float
+  witness_config:
+    mode: enum(fixed|smart|tiered)
+    min_witnesses: int
+    max_witnesses: int
+    heterogeneity: enum(required|preferred)
+    convergence_threshold: float
+  cost_budget:
+    enforcement: enum(off|warn|hard)
+    max_tokens_per_bundle: int?
+    max_cost_usd_per_bundle: float?
+    alert_threshold_pct: float
+  features:
+    external_refs_enabled: bool
+    rag_enabled: bool
+    gold_standard_enabled: bool
+  promotion_policy: enum(balanced|safety|productivity)
+
+CleanState:
+  environment_id: string
+  source_documents: list[SourceDoc]
+  retrieval_timestamp: datetime
+  input_hash: string
+
+SourceDoc:
+  doc_id: string
+  doc_hash: string
+  uri: string?
+  retrieved_at: datetime
+  bytes_hash: string
+
+DraftOutput:
+  type: enum(CANDIDATE_FACT|CODE_DRAFT|INTERPRETATION|HYPOTHESIS)
+  content: object
+  parse_status: enum(stable|repaired|kill)
+  risk_flags:
+    mixing_suspicion: bool
+    missing_provenance: bool
+    uncertainty_unknown: bool
+    failed_tests: list[string]
+    external_mismatch: bool
+  efficiency:
+    tokens_used: int
+    under_budget: bool
+    budget_enforcement: enum(off|warn|hard)
+
+VerifiedBundle:
+  bundle_id: string
+  policy_anchor_ref: string
+  scope_lock_ref: string
+  extracted_payload: object
+  provenance: object
+  gate_outcomes: object
+  terminal_state: enum(SHIPPED|REJECTED)
+  timestamp: datetime
+
+LedgerEntry:
+  bundle_id: string
+  bundle_hash: string
+  policy_anchor_ref: string
+  rerun_recipe: object
+  gate_outcomes: object
+  failure_reasons: list[string]
+  terminal_state: enum(SHIPPED|REJECTED)
+  timestamp: datetime
+  memory_fields: object
+  efficiency_fields: object
+  external_refs: object?
+
+ValidationRules:
+  - ScopeLock.source_hash == sha256(ordered CleanState.source_documents.doc_hash)
+  - PolicyAnchor.thresholds == frozen defaults for v3.1.0
+  - If witness_config.mode == fixed: min_witnesses == max_witnesses
+  - Material disagreement rel_diff = |a-b| / max(|a|,|b|,epsilon)
+  - epsilon default 1e-6 unless overridden by validator set

@@ -1,0 +1,3 @@
+Scenario scn-0331
+Numbers: 91.65, 11.84, 36.02, 63.07, 1.81
+PARSE_UNSTABLE

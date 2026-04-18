@@ -1,0 +1,15 @@
+{
+  "runs": [
+    {
+      "mode": "Verification",
+      "scope": "scope_lock.json",
+      "policy": "policy_anchor.json",
+      "sources": ["source.txt"],
+      "out_dir": "out_manifest_gpt_mock",
+      "validator_set": "validator_set.json",
+      "output_type": "FACT",
+      "provider": "mock",
+      "provider_config": "provider_config_gpt_mock.json"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "cost_budget": {
+    "alert_threshold_pct": 0.8,
+    "enforcement": "warn",
+    "max_cost_usd_per_bundle": 5.0,
+    "max_tokens_per_bundle": 50000
+  },
+  "features": {
+    "external_refs_enabled": false,
+    "gold_standard_enabled": false,
+    "rag_enabled": false
+  },
+  "promotion_policy": "balanced",
+  "scope_lock_ref": "scope-lock-1",
+  "thresholds": {
+    "blindspot_r": 0.6,
+    "fact_agreement": 0.8,
+    "interpretation_agreement": 0.7,
+    "material_disagreement_pct": 0.05
+  },
+  "timestamp": 1769184761.5468755,
+  "validator_set_hash": "",
+  "validator_version": "validators-2026-01",
+  "witness_config": {
+    "convergence_threshold": 0.92,
+    "heterogeneity": "preferred",
+    "max_witnesses": 3,
+    "min_witnesses": 3,
+    "mode": "fixed"
+  }
+}

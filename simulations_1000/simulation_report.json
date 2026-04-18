@@ -1,0 +1,20 @@
+{
+  "simulation_report": {
+    "budget_enforcement": "warn",
+    "early_termination_rate": 0.0,
+    "false_ship_pct": 1.0,
+    "heterogeneity": "preferred",
+    "mean_tokens_per_bundle": 150.16,
+    "mode": "Verification",
+    "n_scenarios": 1000,
+    "reject_pct": 0.0,
+    "shipped_pct": 1.0,
+    "tokens_per_correct_shipped": 0.0,
+    "workload_mix": {
+      "clinical": 262,
+      "finance": 237,
+      "policy": 259,
+      "science": 242
+    }
+  }
+}

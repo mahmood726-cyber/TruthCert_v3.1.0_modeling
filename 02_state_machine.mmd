@@ -1,0 +1,20 @@
+stateDiagram-v2
+  [*] --> CleanState
+  CleanState --> LaneA: mode=Exploration
+  CleanState --> LaneB: mode=Verification
+
+  state LaneA {
+    [*] --> Parse
+    Parse --> Draft: A1..A3
+    Draft --> [*]
+  }
+
+  state LaneB {
+    [*] --> B1
+    B1 --> B1_5 --> B2 --> B3 --> B4 --> B5 --> B6 --> B7 --> B8 --> B9
+    state B9 {
+      [*] --> SHIPPED: all_gates_pass
+      [*] --> REJECTED: any_gate_fail
+    }
+    B9 --> [*]
+  }

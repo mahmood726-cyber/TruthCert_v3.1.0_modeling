@@ -1,0 +1,3 @@
+Scenario scn-0875
+Numbers: 65.02, 27.66, 40.04
+PARSE_UNSTABLE

@@ -1,0 +1,11 @@
+{
+  "endpoint": "endpoint",
+  "entities": [
+    "A",
+    "B"
+  ],
+  "inclusion_snippet": "demo",
+  "source_hash": "1ceba8e236a0966d94ef7892c2702caa1471b87add894bb82b9d6a6dbe394c68",
+  "timepoint": "t0",
+  "units": "units"
+}

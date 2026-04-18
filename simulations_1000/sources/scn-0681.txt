@@ -1,0 +1,3 @@
+Scenario scn-0681
+Numbers: 93.25, 6.92, 96.98, 9.86
+PARSE_UNSTABLE

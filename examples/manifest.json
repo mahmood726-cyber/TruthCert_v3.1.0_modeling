@@ -1,0 +1,15 @@
+{
+  "runs": [
+    {
+      "mode": "Verification",
+      "scope": "scope_lock.json",
+      "policy": "policy_anchor.json",
+      "sources": ["source.txt"],
+      "out_dir": "out_manifest",
+      "validator_set": "validator_set.json",
+      "output_type": "FACT",
+      "provider": "mock",
+      "mock_noise": 0.0
+    }
+  ]
+}

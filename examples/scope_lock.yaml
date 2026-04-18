@@ -1,0 +1,8 @@
+endpoint: endpoint
+entities:
+  - A
+  - B
+units: units
+timepoint: t0
+inclusion_snippet: demo
+source_hash: 1ceba8e236a0966d94ef7892c2702caa1471b87add894bb82b9d6a6dbe394c68
